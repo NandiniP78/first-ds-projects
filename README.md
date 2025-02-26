@@ -1,2 +1,2 @@
 # first-ds-projects
-Getting started with GitHb
+Getting started with GitHub
